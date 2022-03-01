@@ -14,6 +14,11 @@
 
 ------------------------
 
+## Included:
+
+- MySQL queries for 'Magist' Database.
+
+- Schema for Magist Database
 
 *Thanks for taking a look*
 
