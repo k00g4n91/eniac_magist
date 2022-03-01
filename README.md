@@ -15,6 +15,6 @@
 ------------------------
 
 
-*Thanks for taking a look
+*Thanks for taking a look*
 
 :)
