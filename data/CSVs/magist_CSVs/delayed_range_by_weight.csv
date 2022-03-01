@@ -1,0 +1,5 @@
+delay_range,weight_avg,max_weight,min_weight,sum_weight,product_count
+"3-7 day delay",2840.0392,30000,200,144842,51
+"> 100 day Delay",2707.6166,30000,50,1009941,373
+"< 1.5 day delay",2370.1747,40425,50,19411731,8190
+"1.5 - 3 days delay",1853.1089,19200,50,187164,101
