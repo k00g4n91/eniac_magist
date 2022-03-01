@@ -4,7 +4,7 @@
 
 ------------------------
 
-** I learned... **
+**I learned...**
 
 1. How to query SQL like a Pro.
 
