@@ -1,4 +1,4 @@
-# Eniac Magist Project
+# Eniac 'Magist' Projectl
 
 > Should Eniac join forces with Brazilian e-commerce company 'Magist'?
 
