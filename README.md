@@ -4,14 +4,7 @@
 
 ------------------------
 
-**I learned...**
-
-1. How to query SQL like a Pro.
-
-2. To keep things simple when presenting data.
-
-3. To take regular breaks.
-
+A small personal project to find out whether Eniacs decision to expand into Brrazil is a good idea
 ------------------------
 
 ## Included:
@@ -19,7 +12,3 @@
 - MySQL queries for 'Magist' Database.
 
 - Schema for Magist Database
-
-*Thanks for taking a look*
-
-:)
